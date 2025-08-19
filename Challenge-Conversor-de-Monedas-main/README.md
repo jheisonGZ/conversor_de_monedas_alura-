@@ -1,3 +1,8 @@
+
+
+<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/721c8fee-95fd-416f-878a-cc46bc95bbb9" />
+
+
 # Conversor de Monedas 💱
 ## Proyecto desarrollado por: jheisonGZ
 
