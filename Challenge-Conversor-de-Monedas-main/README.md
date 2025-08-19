@@ -1,5 +1,5 @@
 # Conversor de Monedas 💱
-## Proyecto desarrollado por Jheison Estiben Gómez Muñoz
+## Proyecto desarrollado por: jheisonGZ
 
 Este es un **Conversor de Monedas en Java** que permite realizar conversiones entre diferentes divisas utilizando una API de tasas de cambio en tiempo real.  
 El programa consume datos actualizados, procesa la respuesta en formato JSON y muestra los resultados al usuario de manera clara y sencilla mediante una **interfaz gráfica construida con Swing**.
